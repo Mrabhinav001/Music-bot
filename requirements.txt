@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+python-dotenv==1.0.0
+yt-dlp==2023.11.14
+requests==2.31.0
+flask==2.3.3
